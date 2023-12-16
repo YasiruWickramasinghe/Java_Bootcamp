@@ -13,7 +13,7 @@ Welcome to this comprehensive repository dedicated to the exploration and implem
     - Loops (for, while, do-while)
     - Arrays and Collections
 
-3. Object-Oriented Programming (OOP) in Java
+3. Object-Oriented Programming (_2_OOP) in Java
     - Classes and Objects
     - Inheritance
     - Polymorphism

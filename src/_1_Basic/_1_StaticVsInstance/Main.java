@@ -1,4 +1,4 @@
-package StaticVsInstance;
+package Basic._1_StaticVsInstance;
 
 class Vehicle {
     String brand = null;

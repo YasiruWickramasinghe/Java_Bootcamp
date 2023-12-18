@@ -1,4 +1,4 @@
-package _1_Basic.SwitchStatement;
+package _1_Basic._6_SwitchStatement;
 
 import java.util.Scanner;
 

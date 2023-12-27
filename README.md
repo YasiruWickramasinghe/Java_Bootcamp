@@ -11,9 +11,10 @@ Welcome to this comprehensive repository dedicated to the exploration and implem
     - Operators
     - Control Flow (if, else, switch)
     - Loops (for, while, do-while)
-    - Arrays and Collections
+    - Arrays 
+    - String & String Builder and String Buffer
 
-3. Object-Oriented Programming (_2_OOP) in Java
+3. Object-Oriented Programming (_3_OOP) in Java
     - Classes and Objects
     - Inheritance
     - Polymorphism

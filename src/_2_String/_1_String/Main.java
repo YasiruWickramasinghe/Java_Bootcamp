@@ -14,7 +14,8 @@ public class Main {
         //printStream();
         //prettyPrinting();
         //concatenation();
-        performance();
+        //performance();
+        methods();
 
 
     }
@@ -148,6 +149,19 @@ public class Main {
             series = series + ch;
         }
         System.out.println(series);
+    }
+
+    private static void methods() {
+        String name = "YASIRU WICKRAMASINGHE HEllo World";
+        System.out.println(Arrays.toString(name.toCharArray()));
+        System.out.println(name.toLowerCase());
+        System.out.println(name);
+        System.out.println(name.indexOf('A'));
+        System.out.println(Arrays.toString(name.split(" "))); // break down parts based on spaces // [YASIRU, WICKRAMASINGHE, HEllo, World]
+
+
+        System.out.println("     YASIRU      ".strip()); // remove the extra spaces
+
     }
 
 }

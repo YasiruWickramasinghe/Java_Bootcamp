@@ -5,7 +5,7 @@ public class Main {
         Box box1 = new Box(4.6, 7.9, 9.9);
         box1.getL();
         Box box2 = new Box(box1);
-//        System.out.println(box1.w + " " + box1.h); 
+//        System.out.println(box1.w + " " + box1.h);
 
 //        BoxWeight box3 = new BoxWeight();
 //        BoxWeight box4 = new BoxWeight(2, 3, 4, 8);

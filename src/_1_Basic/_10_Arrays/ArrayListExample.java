@@ -21,7 +21,7 @@ public class ArrayListExample {
 //        list.remove(2);
 //        System.out.println(list);
 
-        System.out.println("Enter numbers: ");
+        System.out.print("Enter numbers: ");
         for(int i = 0; i < 5; i++){
             list.add(sc.nextInt());
         }

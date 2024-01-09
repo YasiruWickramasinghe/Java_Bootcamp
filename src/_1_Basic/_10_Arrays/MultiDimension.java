@@ -41,7 +41,7 @@ class MultiDimension {
         };
 
         //output in normal loop
-        System.out.println("using Array class");
+        System.out.println("using Arrays.toString()");
         for(int row = 0; row < arr.length; row++){
             System.out.println(Arrays.toString(arr[row]));
         };

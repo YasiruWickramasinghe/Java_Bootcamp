@@ -32,25 +32,23 @@ Welcome to this comprehensive repository dedicated to the exploration and implem
     - File Input/Output Streams
     - Serialization and Deserialization
 
-6. Multithreading
-    - Threads and Runnable Interface
-    - Synchronization
-    - Thread Pools
-
-7. Java Collections Framework
+6. Java Collections Framework
     - Lists, Sets, Maps
     - Iterators
     - Collections Utility Methods
+      
+9. Lambda Expressions
+    - Syntax and Examples
+    - Functional Interfaces
+    - Method References
+
+      
+## Not Yet Cover
 
 8. Java Streams API
     - Stream Basics
     - Intermediate and Terminal Operations
     - Stream Collectors
-
-9. Lambda Expressions
-    - Syntax and Examples
-    - Functional Interfaces
-    - Method References
 
 10. Java GUI Programming (Swing and JavaFX)
     - Creating GUI Components

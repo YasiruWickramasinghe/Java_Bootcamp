@@ -1,4 +1,4 @@
 package _5_Multithreading;
 
-public class Main {
+public class Empty {
 }

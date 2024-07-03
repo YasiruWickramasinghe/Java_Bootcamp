@@ -9,17 +9,17 @@ public class ArrayListExample {
         //syntax
         ArrayList<Integer> list = new ArrayList<>(10);
 
-//        list.add(67);
-//        list.add(74);
-//        list.add(97);
-//        list.add(57);
-//
-//        System.out.println(list);
-//        System.out.println(list.contains(97));
-//        list.set(0, 99);
-//        System.out.println(list);
-//        list.remove(2);
-//        System.out.println(list);
+        list.add(67);
+        list.add(74);
+        list.add(97);
+        list.add(57);
+
+        System.out.println(list);
+        System.out.println(list.contains(97));
+        list.set(0, 99);
+        System.out.println(list);
+        list.remove(2);
+        System.out.println(list);
 
         System.out.print("Enter numbers: ");
         for(int i = 0; i < 5; i++){
